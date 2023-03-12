@@ -1,0 +1,11 @@
+.item-redes{
+    display: inline block;
+    margin: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    
+        
+}
+
+.item-redes a p{
+    text-decoration: none;
+}
